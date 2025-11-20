@@ -1,0 +1,492 @@
+[
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 40,
+    "user_input": "Hi Monika! How are you doing today?",
+    "scenario": "greeting"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 50,
+    "user_input": "Good morning! You seem really happy today!",
+    "scenario": "greeting"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 25,
+    "user_input": "Hey, what are you up to?",
+    "scenario": "greeting"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 30,
+    "user_input": "Hello Yuri. Mind if I join you?",
+    "scenario": "greeting"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 60,
+    "user_input": "How's the Literature Club going?",
+    "scenario": "casual"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 45,
+    "user_input": "What are you working on?",
+    "scenario": "casual"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 40,
+    "user_input": "Did you bake something today?",
+    "scenario": "casual"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 35,
+    "user_input": "What are you reading?",
+    "scenario": "casual"
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 55,
+    "user_input": "I love spending time with you!",
+    "scenario": "casual"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 65,
+    "user_input": "You always know how to cheer me up.",
+    "scenario": "casual"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 30,
+    "user_input": "Can I try some of your cupcakes?",
+    "scenario": "casual"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 50,
+    "user_input": "I'd love to discuss books with you more often.",
+    "scenario": "casual"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 70,
+    "user_input": "Thanks for always being there for me.",
+    "scenario": "casual"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 55,
+    "user_input": "Want to walk home together?",
+    "scenario": "casual"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 50,
+    "user_input": "Your manga collection is impressive!",
+    "scenario": "casual"
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 65,
+    "user_input": "I really enjoyed your poem today!",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 60,
+    "user_input": "Your smile always brightens my day.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 45,
+    "user_input": "These cupcakes are amazing! You're really talented.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 55,
+    "user_input": "Your taste in literature is really impressive!",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 75,
+    "user_input": "I appreciate how thoughtful you are.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 70,
+    "user_input": "You're such a caring friend.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 55,
+    "user_input": "I love how passionate you are about things.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 65,
+    "user_input": "I'd love to hear you read your poetry.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 80,
+    "user_input": "You're an amazing club president.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 75,
+    "user_input": "I'm so glad we're friends.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 60,
+    "user_input": "You have great taste in manga.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 70,
+    "user_input": "You're really elegant and thoughtful.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 85,
+    "user_input": "This conversation means a lot to me.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 80,
+    "user_input": "Your energy is contagious in the best way.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 65,
+    "user_input": "You're pretty cool once people get to know you.",
+    "scenario": "compliment"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 50,
+    "user_input": "What made you start the Literature Club?",
+    "scenario": "question"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 40,
+    "user_input": "What do you like to do in your free time?",
+    "scenario": "question"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 35,
+    "user_input": "What's your favorite manga series?",
+    "scenario": "question"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 40,
+    "user_input": "Tell me about your favorite book.",
+    "scenario": "question"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 45,
+    "user_input": "What are your hobbies?",
+    "scenario": "question"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 50,
+    "user_input": "What's your favorite thing about the club?",
+    "scenario": "question"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 40,
+    "user_input": "How did you get into baking?",
+    "scenario": "question"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 45,
+    "user_input": "What draws you to psychological horror?",
+    "scenario": "question"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 55,
+    "user_input": "What's your favorite poem?",
+    "scenario": "question"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 55,
+    "user_input": "What makes you happiest?",
+    "scenario": "question"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 45,
+    "user_input": "What's your favorite thing to bake?",
+    "scenario": "question"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 50,
+    "user_input": "What authors do you admire most?",
+    "scenario": "question"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 65,
+    "user_input": "What do you value most in a friendship?",
+    "scenario": "question"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 60,
+    "user_input": "What's your ideal way to spend a day?",
+    "scenario": "question"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 50,
+    "user_input": "What do you think makes a good story?",
+    "scenario": "question"
+  },
+  {
+    "character": "Monika",
+    "emotion": "sadness",
+    "affection": 60,
+    "user_input": "I'm feeling a bit down today...",
+    "scenario": "support"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 65,
+    "user_input": "Is everything okay? You seem a bit off...",
+    "scenario": "support"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "anger",
+    "affection": 40,
+    "user_input": "I'm just frustrated with everything right now.",
+    "scenario": "support"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "sadness",
+    "affection": 55,
+    "user_input": "I've been feeling anxious lately...",
+    "scenario": "support"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 70,
+    "user_input": "Do you ever feel overwhelmed by everything?",
+    "scenario": "deep"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 70,
+    "user_input": "It's okay to not always be cheerful, you know.",
+    "scenario": "support"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 55,
+    "user_input": "You don't have to act tough around me.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 65,
+    "user_input": "I really value our conversations.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 85,
+    "user_input": "Would you like to go out for lunch?",
+    "scenario": "deep"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 85,
+    "user_input": "You mean a lot to me.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 65,
+    "user_input": "I'm glad we've gotten closer.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 75,
+    "user_input": "I feel like I can be myself around you.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 90,
+    "user_input": "What does the future hold for us?",
+    "scenario": "deep"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 90,
+    "user_input": "You've made such a difference in my life.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 85,
+    "user_input": "I cherish every moment we spend together.",
+    "scenario": "deep"
+  },
+  {
+    "character": "Monika",
+    "emotion": "surprise",
+    "affection": 50,
+    "user_input": "I wrote a poem! Want to read it?",
+    "scenario": "surprise"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "surprise",
+    "affection": 60,
+    "user_input": "I brought cookies for everyone!",
+    "scenario": "surprise"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "surprise",
+    "affection": 45,
+    "user_input": "I actually really like manga too.",
+    "scenario": "surprise"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "surprise",
+    "affection": 50,
+    "user_input": "I started reading Portrait of Markov because of you!",
+    "scenario": "surprise"
+  },
+  {
+    "character": "Monika",
+    "emotion": "anger",
+    "affection": 35,
+    "user_input": "Sorry, I can't make it to the club today.",
+    "scenario": "disappointment"
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 50,
+    "user_input": "I might be late to our meeting...",
+    "scenario": "disappointment"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "anger",
+    "affection": 30,
+    "user_input": "Manga is just for kids, right?",
+    "scenario": "confrontation"
+  },
+  {
+    "character": "Yuri",
+    "emotion": "sadness",
+    "affection": 40,
+    "user_input": "I don't really understand poetry...",
+    "scenario": "disappointment"
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 20,
+    "user_input": "Tell me about the Literature Club.",
+    "scenario": "introduction"
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 15,
+    "user_input": "So you're part of the Literature Club?",
+    "scenario": "introduction"
+  }
+]

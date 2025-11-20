@@ -1,0 +1,119 @@
+{
+  "evaluation_date": "2025-11-20T14:54:34.939649",
+  "num_models": 3,
+  "num_test_prompts": 70,
+  "models_evaluated": [
+    "VN Emotion (Merged)",
+    "VN No Emotion (Merged)",
+    "VN Split (4 Characters)"
+  ],
+  "overall_comparison": [
+    {
+      "Model": "VN Emotion (Merged)",
+      "Type": "merged",
+      "Has Emotion": true,
+      "Size (GB)": 0.0415,
+      "Trainable %": 0.0,
+      "Distinct-1": 0.3208,
+      "Distinct-2": 0.7981,
+      "Distinct-3": 0.9297,
+      "Repetition": 0.0011,
+      "Perplexity": 14.9859,
+      "Mean Length": 39.4143,
+      "Inference Time (s)": 2.4211,
+      "Tokens/sec": 20.4012,
+      "Emotion Appropriateness": 0.2806,
+      "Character Consistency": NaN,
+      "Name Bleeding Rate": NaN
+    },
+    {
+      "Model": "VN No Emotion (Merged)",
+      "Type": "merged",
+      "Has Emotion": false,
+      "Size (GB)": 0.0415,
+      "Trainable %": 0.0,
+      "Distinct-1": 0.3385,
+      "Distinct-2": 0.7932,
+      "Distinct-3": 0.9258,
+      "Repetition": 0.0004,
+      "Perplexity": 23.9867,
+      "Mean Length": 38.5714,
+      "Inference Time (s)": 2.4248,
+      "Tokens/sec": 20.4206,
+      "Emotion Appropriateness": NaN,
+      "Character Consistency": NaN,
+      "Name Bleeding Rate": NaN
+    },
+    {
+      "Model": "VN Split (4 Characters)",
+      "Type": "split",
+      "Has Emotion": true,
+      "Size (GB)": 0.0415,
+      "Trainable %": 0.0,
+      "Distinct-1": 0.2841,
+      "Distinct-2": 0.7906,
+      "Distinct-3": 0.9537,
+      "Repetition": 0.0015,
+      "Perplexity": 22.8996,
+      "Mean Length": 38.1143,
+      "Inference Time (s)": 2.4672,
+      "Tokens/sec": 20.2722,
+      "Emotion Appropriateness": 0.2835,
+      "Character Consistency": 0.0229,
+      "Name Bleeding Rate": 0.0
+    }
+  ],
+  "best_models": {
+    "Lexical Diversity": [
+      "VN Emotion (Merged)",
+      0.7981
+    ],
+    "Model Confidence": [
+      "VN Emotion (Merged)",
+      14.9859
+    ],
+    "Repetition Avoidance": [
+      "VN No Emotion (Merged)",
+      0.0004
+    ],
+    "Inference Speed": [
+      "VN Emotion (Merged)",
+      2.4211
+    ],
+    "Emotion Awareness": [
+      "VN Split (4 Characters)",
+      0.2835
+    ],
+    "Character Consistency": [
+      "VN Split (4 Characters)",
+      0.0229
+    ]
+  },
+  "per_emotion_comparison": [
+    {
+      "Emotion": "anger",
+      "VN Emotion (Merged)": 0.3017,
+      "VN Split (4 Characters)": 0.1657
+    },
+    {
+      "Emotion": "joy",
+      "VN Emotion (Merged)": 0.0829,
+      "VN Split (4 Characters)": 0.0925
+    },
+    {
+      "Emotion": "neutral",
+      "VN Emotion (Merged)": 0.4267,
+      "VN Split (4 Characters)": 0.4447
+    },
+    {
+      "Emotion": "sadness",
+      "VN Emotion (Merged)": 0.3209,
+      "VN Split (4 Characters)": 0.2831
+    },
+    {
+      "Emotion": "surprise",
+      "VN Emotion (Merged)": 0.4425,
+      "VN Split (4 Characters)": 0.4525
+    }
+  ]
+}

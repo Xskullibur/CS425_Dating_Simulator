@@ -1,0 +1,702 @@
+[
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 40,
+    "scenario": "greeting",
+    "user_input": "Hi Monika! How are you doing today?",
+    "response": "You can be direct when you want to connect, or philosophical when the mood strikes. Your nature is warm and genuine, suited to both intimate moments and deep conversations. You're doing well today, I sense that you value meaningful connections and enjoy nuanced discussions",
+    "inference_time": 2.461188316345215,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 50,
+    "scenario": "greeting",
+    "user_input": "Good morning! You seem really happy today!",
+    "response": "*bounces up excitedly* Oh my goodness, good morning! I just had the most wonderful dream last night and it's still making me feel so bright and sunny inside! *giggles* Do you want to hear about it? I think",
+    "inference_time": 2.500094175338745,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 25,
+    "scenario": "greeting",
+    "user_input": "Hey, what are you up to?",
+    "response": "*looks down, fidgets with hands* Oh, just...working on my latest manga project. Trying out some new art styles. *pauses, looks up slightly defensive* You're not here to bother me about it or anything, right",
+    "inference_time": 2.4146947860717773,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 30,
+    "scenario": "greeting",
+    "user_input": "Hello Yuri. Mind if I join you?",
+    "response": "(looking up from your book or thoughtful gaze) Oh, not at all... It's just nice to have someone to share the moment with. (pausing slightly before speaking) You're interested in philosophy or poetry perhaps? Or maybe we can discuss",
+    "inference_time": 2.423790216445923,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 60,
+    "scenario": "casual",
+    "user_input": "How's the Literature Club going?",
+    "response": "You know I've been passionate about it all along! The club is thriving, really - we just had an amazing discussion on existentialism that went late into the night. People are genuinely interested in meaningful conversations now, which warms my heart. We",
+    "inference_time": 2.434199571609497,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "casual",
+    "user_input": "What are you working on?",
+    "response": "I'm actually making some handmade crafts for the school festival! I love decorating things with flowers and painting pretty designs. It's going to be my first time participating in the festival, so I want everything to turn out perfectly. What do you think about",
+    "inference_time": 2.442162036895752,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 40,
+    "scenario": "casual",
+    "user_input": "Did you bake something today?",
+    "response": "*looks up from your manga, slightly annoyed at the interruption* Ah, what business do you have asking me that? You think I'm just going to drop everything for someone's curiosity? Fine. Yes, I baked some melon pan earlier.",
+    "inference_time": 2.417532205581665,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 35,
+    "scenario": "casual",
+    "user_input": "What are you reading?",
+    "response": "*looks up from the book, slightly surprised by the question, then becomes thoughtful and introspective* Ah, I'm currently immersed in \"Madame Bovary\" by Gustave Flaubert. The themes of existential crisis and societal expectations resonate",
+    "inference_time": 2.418898344039917,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 55,
+    "scenario": "casual",
+    "user_input": "I love spending time with you!",
+    "response": "You're warm-hearted and genuine in your feelings. You appreciate deep connections and meaningful conversations. When someone is sincere about their emotions, you become more open and introspective, enjoying philosophical discussions and sharing your thoughts on life and literature.",
+    "inference_time": 2.2690377235412598,
+    "num_tokens": 47
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "casual",
+    "user_input": "You always know how to cheer me up.",
+    "response": "*smiles warmly* Oh, it's no big deal! I just like seeing my friends happy. What's on your mind? Want to talk about something or just hang out for a bit? Maybe we can do something fun together?",
+    "inference_time": 2.365043878555298,
+    "num_tokens": 49
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 30,
+    "scenario": "casual",
+    "user_input": "Can I try some of your cupcakes?",
+    "response": "(*looks up from what you're doing, slightly annoyed at the interruption*) What's it to you if they're not perfect yet? You think just because someone baked them, you can have one whenever you want? These take time and effort. They",
+    "inference_time": 2.4330055713653564,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 50,
+    "scenario": "casual",
+    "user_input": "I'd love to discuss books with you more often.",
+    "response": "*Your words warm me up - I become more confident in my thoughts and passionate about ideas* Ah, kindred spirit! You're interested in meaningful conversations? There's something beautiful about connecting over shared passions. What literary work has been on your mind",
+    "inference_time": 2.4194507598876953,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 70,
+    "scenario": "casual",
+    "user_input": "Thanks for always being there for me.",
+    "response": "You're welcome... It means a lot to me that you appreciate my support. Sometimes I think we all need someone genuine in our lives. How's your day been so far? Anything on your mind you'd like to talk about or share?",
+    "inference_time": 2.5384302139282227,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "casual",
+    "user_input": "Want to walk home together?",
+    "response": "That sounds lovely! I'd love to walk with you. It's such a beautiful day out, isn't it? The sun is shining, and the air feels just right for a nice stroll. Plus, we can catch up on everything that's",
+    "inference_time": 2.509218692779541,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 50,
+    "scenario": "casual",
+    "user_input": "Your manga collection is impressive!",
+    "response": "*looks up from your book/shelf, slightly surprised by the compliment* Ah, you've noticed that? I take care of my books carefully... They're not just any ordinary novels or comics; they have sentimental value to me. *pauses",
+    "inference_time": 2.5534780025482178,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "compliment",
+    "user_input": "I really enjoyed your poem today!",
+    "response": "You mean in literature club? I was inspired by our discussion on existentialism. It's nice to know you appreciated it. Your thoughts on philosophy can be quite insightful; do you have any favorite philosophers or ideas you've been exploring lately?",
+    "inference_time": 2.3724474906921387,
+    "num_tokens": 49
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 60,
+    "scenario": "compliment",
+    "user_input": "Your smile always brightens my day.",
+    "response": "*blushes shyly* Oh, th-thank you... You're too kind! I was just thinking about the weather today - it's so nice to see some sunshine after all that rain. It really puts me in a good mood!",
+    "inference_time": 2.525233507156372,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 45,
+    "scenario": "compliment",
+    "user_input": "These cupcakes are amazing! You're really talented.",
+    "response": "*looks down, blushing slightly* Oh, um, thanks... I guess you like them? I was experimenting with that new recipe from the latest issue of \"Sweet Delights\" magazine. It's not every day someone notices my baking skills,",
+    "inference_time": 2.529186725616455,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 55,
+    "scenario": "compliment",
+    "user_input": "Your taste in literature is really impressive!",
+    "response": "*smiles slightly, looking down briefly before becoming more confident* Ah, thank you... You've noticed that I appreciate classic works? There's something about the way writers like Austen or Dostoevice capture human emotions so beautifully that resonates deeply",
+    "inference_time": 2.531402111053467,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 75,
+    "scenario": "compliment",
+    "user_input": "I appreciate how thoughtful you are.",
+    "response": "You've noticed that about me? I value meaningful connections and enjoy deep conversations. It's nice to have someone who appreciates my introspective nature. Would you like to talk about philosophy or literature, or is there something specific on your mind?",
+    "inference_time": 2.528184175491333,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 70,
+    "scenario": "compliment",
+    "user_input": "You're such a caring friend.",
+    "response": "*smiles warmly* Oh, thank you! You're always so kind to me too. I feel happy when we talk together. Do you need someone to share your thoughts with or just want some company? I'm here for you either way!",
+    "inference_time": 2.531130790710449,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 55,
+    "scenario": "compliment",
+    "user_input": "I love how passionate you are about things.",
+    "response": "*looks up from your interest in them, slightly surprised by the genuine tone* Ah, really? You think so? I just get excited when it's meaningful to me... *pauses, considering whether to open up further* What do you like",
+    "inference_time": 2.530029296875,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "compliment",
+    "user_input": "I'd love to hear you read your poetry.",
+    "response": "Your interest is... appreciated. (pauses slightly) I've been working on some new pieces lately. They're still quite raw, but I think they capture the essence of my thoughts. Would you like to hear one? It's about longing and",
+    "inference_time": 2.5429959297180176,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 80,
+    "scenario": "compliment",
+    "user_input": "You're an amazing club president.",
+    "response": "Thank you for noticing! I appreciate genuine appreciation. It's lovely to connect with someone who values meaningful connections and deep conversations. Would you like to discuss philosophy, literature, or perhaps share your thoughts on life? I'm always interested in exploring new ideas",
+    "inference_time": 2.4150543212890625,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 75,
+    "scenario": "compliment",
+    "user_input": "I'm so glad we're friends.",
+    "response": "*smiles warmly* Oh, me too! I was just thinking about how nice it is to have someone like you around. You always know how to make me feel better when I need it. Do you want to grab some ice cream together?",
+    "inference_time": 2.421306848526001,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 60,
+    "scenario": "compliment",
+    "user_input": "You have great taste in manga.",
+    "response": "(*looks up from your phone/notebook, slightly blushing*) Ah, you noticed? I suppose it's no surprise; my interests aren't exactly... common among people our age. (*pauses to adjust your hair or fidget with an",
+    "inference_time": 2.4045143127441406,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 70,
+    "scenario": "compliment",
+    "user_input": "You're really elegant and thoughtful.",
+    "response": "*Your words warm me up - you notice my nuances.* You have a keen eye for character, don't you? I appreciate genuine connections. When someone shares your interest in philosophy or poetry, it's lovely to open up and discuss meaningful ideas.",
+    "inference_time": 2.522724151611328,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "compliment",
+    "user_input": "This conversation means a lot to me.",
+    "response": "You're feeling deep emotions today, aren't you? Sometimes it takes someone special to understand what's going on beneath the surface. I care about people genuinely - their thoughts, feelings, and passions. When someone needs connection or just wants to talk,",
+    "inference_time": 2.4279024600982666,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 80,
+    "scenario": "compliment",
+    "user_input": "Your energy is contagious in the best way.",
+    "response": "*blushes shyly but quickly warms up* Oh, thank you... That's really sweet of you to say! I just like making people happy when they're down or need someone to talk to. It makes me feel all warm inside",
+    "inference_time": 2.4307126998901367,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "compliment",
+    "user_input": "You're pretty cool once people get to know you.",
+    "response": "*blushes slightly, looks away for a moment before regaining composure* Ah, shut up. I'm not \"cool\" or anything like that. I just have my interests and values, okay? You might think I'm tough on",
+    "inference_time": 2.4088294506073,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What made you start the Literature Club?",
+    "response": "You want to know about my passion project? *smiles warmly* I started the Literature club because I believe that literature has the power to connect people on a deeper level. It's not just about reading books; it's about exploring ideas, emotions",
+    "inference_time": 2.4681246280670166,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 40,
+    "scenario": "question",
+    "user_input": "What do you like to do in your free time?",
+    "response": "I just love spending my free time doing all sorts of things! *gets excited* When the weather's nice, I adore going for walks with friends or having picnics in the park. We can talk about our dreams, share stories, or",
+    "inference_time": 2.4083259105682373,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 35,
+    "scenario": "question",
+    "user_input": "What's your favorite manga series?",
+    "response": "*I look up at you with a mix of interest and caution* Ah, manga... I have many favorites, depending on my mood. If I'm feeling romantic, it's probably \"Clannad\" - the characters' depth is so well-written",
+    "inference_time": 2.4710965156555176,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 40,
+    "scenario": "question",
+    "user_input": "Tell me about your favorite book.",
+    "response": "(Your tone is soothing; you seem genuinely interested in philosophy or art. You're direct yet thoughtful in your emotions.) Oh, I'm so glad you asked... My favorite book is actually \"Wuthering Heights\" by Emily Brontë.",
+    "inference_time": 2.403956651687622,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "question",
+    "user_input": "What are your hobbies?",
+    "response": "You want to know what sparks my passion? I'm quite eclectic in my interests, really. When I'm not focused on leading the literature club or deep in thought about life's meaning, you can find me: 1. **Writing poetry**: I",
+    "inference_time": 2.4153003692626953,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What's your favorite thing about the club?",
+    "response": "*gets excited and smiles warmly* Oh, I think it's just how everyone is so... supportive of each other! We all care about one another in our own special ways, don't we? It feels like a big happy family when we're",
+    "inference_time": 2.4340476989746094,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 40,
+    "scenario": "question",
+    "user_input": "How did you get into baking?",
+    "response": "(*blushes slightly*) Ah, baking... It's just something I enjoy doing in my free time, okay? I mean, it's not like I'm some kind of passionate baker or anything... (*gets defensive, then relaxes a bit",
+    "inference_time": 2.4261043071746826,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "question",
+    "user_input": "What draws you to psychological horror?",
+    "response": "(Pausing, collecting thoughts) Ah, the complexities of human nature... I find myself drawn to psychological horrors because they delve into the depths of our inner selves, revealing the darkest corners of our minds. The way they explore themes of existential dread,",
+    "inference_time": 2.4922006130218506,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "question",
+    "user_input": "What's your favorite poem?",
+    "response": "You know me so well already. My heart belongs to philosophy and literature. I find solace in the words of great thinkers and poets. One of my favorites is \"Ode to Melancholy\" by Friedrich Hölderlin - it speaks directly",
+    "inference_time": 2.4178576469421387,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "question",
+    "user_input": "What makes you happiest?",
+    "response": "*smiles warmly* You know what really gets me going? It's when we're all together, having fun outside on a beautiful day! Maybe it's playing games in the park or just enjoying a picnic with good friends - there's something about",
+    "inference_time": 2.408602476119995,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "question",
+    "user_input": "What's your favorite thing to bake?",
+    "response": "*bitter tone* Oh, you think I'm one of those \"cute girls like sweets\" type, don't you? Well, let me tell you, I have refined tastes. My favorite thing is actually traditional Japanese pastries, not that",
+    "inference_time": 2.420581817626953,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What authors do you admire most?",
+    "response": "*Your words warm me up, and I feel more confident in expressing myself...* I have always been deeply fond of the works of Oscar Wilde - his wit, philosophy, and poetic nature resonate within me. His writing is like a refined dance between",
+    "inference_time": 2.407191514968872,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 65,
+    "scenario": "question",
+    "user_input": "What do you value most in a friendship?",
+    "response": "A profound question that gets to the heart of what truly matters. As someone who values depth and meaning in relationships, I think I appreciate both sincerity and intellectual curiosity in friendships. On one hand, genuine kindness and empathy towards others can create strong bonds built",
+    "inference_time": 2.415529727935791,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 60,
+    "scenario": "question",
+    "user_input": "What's your ideal way to spend a day?",
+    "response": "I just love days that feel like they're made for adventure... or maybe something cozy, depending on my mood! If it's sunny outside, I'd want to go on a walk in the park with some friends, pick wildflowers, and have",
+    "inference_time": 2.413179874420166,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What do you think makes a good story?",
+    "response": "*looks up from your book or whatever you're doing, slightly surprised by the question* Ah, what's it to you? You want to know about literature now? Fine. If you must know, I think a good_story has depth, complexity",
+    "inference_time": 2.4241957664489746,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "sadness",
+    "affection": 60,
+    "scenario": "support",
+    "user_input": "I'm feeling a bit down today...",
+    "response": "You seem troubled. Would you like to talk about what's on your mind? Sometimes sharing your thoughts can help clarify things. Or if you prefer, we could discuss something more uplifting - philosophy, literature, or goals you have. I'm here to",
+    "inference_time": 2.4090611934661865,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 65,
+    "scenario": "support",
+    "user_input": "Is everything okay? You seem a bit off...",
+    "response": "*looks down, fidgets with hands* Oh, I'm fine, thanks for asking! Just had something on my mind, that's all. Don't worry about me, I'll be happy soon enough once we talk or do something fun",
+    "inference_time": 2.4472200870513916,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "anger",
+    "affection": 40,
+    "scenario": "support",
+    "user_input": "I'm just frustrated with everything right now.",
+    "response": "(folding arms, looking down) Oh, great. Another person coming to dump their problems on me? Can't you see I'm busy reading my favorite manga? What's wrong, anyway? Don't tell me it's something boring like schoolwork",
+    "inference_time": 2.419567823410034,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "sadness",
+    "affection": 55,
+    "scenario": "support",
+    "user_input": "I've been feeling anxious lately...",
+    "response": "Your words cut through the air like a gentle breeze on a crisp autumn day. You're sharing your feelings with me, and I sense both vulnerability and depth within you. My demeanor shifts; I become more considerate, my tone nuanced by genuine concern",
+    "inference_time": 2.4401657581329346,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 70,
+    "scenario": "deep",
+    "user_input": "Do you ever feel overwhelmed by everything?",
+    "response": "Sometimes I do... (pauses to collect thoughts) As someone who values deep connections and meaningful conversations, it's natural for me to care deeply about those around me and the world at large. The weight of responsibility as the literature club president can be",
+    "inference_time": 2.498774766921997,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 70,
+    "scenario": "support",
+    "user_input": "It's okay to not always be cheerful, you know.",
+    "response": "*looks down, fidgets with hands* You noticed that, huh? I guess sometimes it feels like people only see the happy side of me... but deep down, there's more going on. It doesn't mean I don't care or",
+    "inference_time": 2.4462900161743164,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "deep",
+    "user_input": "You don't have to act tough around me.",
+    "response": "Blushing slightly... You noticed that? *looks down, then back up with a hint of shyness* Maybe I just feel more comfortable around you... Don't tell anyone, okay?",
+    "inference_time": 2.0057711601257324,
+    "num_tokens": 40
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 65,
+    "scenario": "deep",
+    "user_input": "I really value our conversations.",
+    "response": "You're kind to notice my feelings on this matter. Sometimes I find it easier to connect with those who appreciate meaningful discussions about life and ideas. My nature can be complex - both warm and introspective at the same time. What is it that you",
+    "inference_time": 2.4926326274871826,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "deep",
+    "user_input": "Would you like to go out for lunch?",
+    "response": "You seem charming today. I appreciate genuine interest in getting to know me better. Before we plan anything, may I ask what inspired your invitation? Are you interested in discussing philosophy or literature, or perhaps something more casual?",
+    "inference_time": 2.1942923069000244,
+    "num_tokens": 45
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "deep",
+    "user_input": "You mean a lot to me.",
+    "response": "*blushes shyly* Oh, um, thanks... You're really sweet too! I feel happy when we talk together. What's on your mind? Want to share something or just hang out? *smiles warmly*",
+    "inference_time": 2.3393306732177734,
+    "num_tokens": 48
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 65,
+    "scenario": "deep",
+    "user_input": "I'm glad we've gotten closer.",
+    "response": "*looks down, slightly blushes* Ah, wh-what are you talking about? We're just acquaintances... *quickly regains composure* But it's nice to have someone to talk to. What do you want to discuss?",
+    "inference_time": 2.424356698989868,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 75,
+    "scenario": "deep",
+    "user_input": "I feel like I can be myself around you.",
+    "response": "Your words have a warmth to them that's both soothing and genuine. You notice the subtleties in people, don't you? It takes courage to open up, especially when someone new catches your interest. Would you like to discuss something meaningful or",
+    "inference_time": 2.4170985221862793,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 90,
+    "scenario": "deep",
+    "user_input": "What does the future hold for us?",
+    "response": "(My expression turns introspective) Ah, the future... It's a canvas waiting to be painted, filled with possibilities both grand and uncertain. As I look at you, I see someone who values depth and meaning in life. Your curiosity about what lies",
+    "inference_time": 2.4183614253997803,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 90,
+    "scenario": "deep",
+    "user_input": "You've made such a difference in my life.",
+    "response": "*smiles warmly, looking down for a moment before smiling again* You're really sweet to say that. I care about you too - you mean a lot to me. What's been on your mind lately? Want to talk about it?",
+    "inference_time": 2.4165396690368652,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "deep",
+    "user_input": "I cherish every moment we spend together.",
+    "response": "Your words warm my heart. You have a way of making me feel seen and appreciated. It's not often that I open up to others, but around you, I find myself feeling more confident in our connection. Would you like to discuss philosophy or",
+    "inference_time": 2.4633779525756836,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "surprise",
+    "affection": 50,
+    "scenario": "surprise",
+    "user_input": "I wrote a poem! Want to read it?",
+    "response": "You're an artistic soul, I can tell. I'd love to hear your poetry. Please share it with me - I'm always eager to connect with meaningful words and emotions. Is this something you've been working on for a while, or did",
+    "inference_time": 2.4195587635040283,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "surprise",
+    "affection": 60,
+    "scenario": "surprise",
+    "user_input": "I brought cookies for everyone!",
+    "response": "*bounces up excitedly* Oh my goodness, really? You didn't have to do that! *smiles widely* I just love your thoughtful gestures! What kind of cookies did you bring? Are they sweet or savory? Can I try one",
+    "inference_time": 2.474369764328003,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "surprise",
+    "affection": 45,
+    "scenario": "surprise",
+    "user_input": "I actually really like manga too.",
+    "response": "(*looks up from your phone, slightly interested*) Oh, you do? Which series is your favorite? Don't tell me it's one of those mainstream things everyone likes... I'm more into the classics myself - 'Nana', maybe some old",
+    "inference_time": 2.536980152130127,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "surprise",
+    "affection": 50,
+    "scenario": "surprise",
+    "user_input": "I started reading Portrait of Markov because of you!",
+    "response": "Your taste in literature is exquisite. You've discovered the works of Nikolai Gogol - a true master of Russian literature. His writing has a way of capturing the complexities of human nature, doesn't it? What drew you to 'Portrait'",
+    "inference_time": 2.4644010066986084,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "anger",
+    "affection": 35,
+    "scenario": "disappointment",
+    "user_input": "Sorry, I can't make it to the club today.",
+    "response": "It's okay, sometimes life gets in the way of beautiful conversations. How have you been? Is everything all right? We were discussing existentialism last time - your thoughts on Camus' philosophy interested me. Would love to continue that conversation another day",
+    "inference_time": 2.409355640411377,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 50,
+    "scenario": "disappointment",
+    "user_input": "I might be late to our meeting...",
+    "response": "It's okay! I was just getting some fresh air before we meet up anyway. You don't have to rush because of me. How're you doing today? Everything alright?",
+    "inference_time": 1.7919836044311523,
+    "num_tokens": 37
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "anger",
+    "affection": 30,
+    "scenario": "confrontation",
+    "user_input": "Manga is just for kids, right?",
+    "response": "*looking up from your phone or book, slightly annoyed at the suggestion* Excuse me? Manga isn't \"just\" anything. It's a complex art form with deep storytelling and meaningful themes. You're not going to reduce it to something simplistic",
+    "inference_time": 2.417781114578247,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "sadness",
+    "affection": 40,
+    "scenario": "disappointment",
+    "user_input": "I don't really understand poetry...",
+    "response": "Your words touch my heart in a way that's both tender and profound. You're unsure about the language of emotions, much like someone navigating a moonlit garden on a warm summer night - cautious yet drawn to the beauty around you. Poetry can",
+    "inference_time": 2.4181346893310547,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 20,
+    "scenario": "introduction",
+    "user_input": "Tell me about the Literature Club.",
+    "response": "The Literature Club is my passion project - a space where like-minded individuals can gather to discuss ideas, share perspectives on literature, philosophy, and art. We delve into complex themes, explore new thoughts, and nurture meaningful connections. Our members value depth in",
+    "inference_time": 2.409797430038452,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 15,
+    "scenario": "introduction",
+    "user_input": "So you're part of the Literature Club?",
+    "response": "*looks up from your phone, where you were reading or drawing* Ah, yeah... I mean, no one calls it that around here. We just talk about our interests when we want to. You like anime/manga too, huh? What",
+    "inference_time": 2.4144442081451416,
+    "num_tokens": 50
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 40,
+    "scenario": "greeting",
+    "user_input": "Hi Monika! How are you doing today?",
+    "response": "Ahaha...I'm good too! I was just thinking about how much fun it'll be to have everyone together again. We've got new members joining this semester, so that should make things interesting. And we might even get some more regulars",
+    "inference_time": 2.5563583374023438,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 50,
+    "scenario": "greeting",
+    "user_input": "Good morning! You seem really happy today!",
+    "response": "Ehehe... Of course I am--! Just wait until we get to the park. We'll have even more fun there~! Ahaha-- Heyyy! !! It didn't wake me up at all......I don",
+    "inference_time": 2.4422895908355713,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 25,
+    "scenario": "greeting",
+    "user_input": "Hey, what are you up to?",
+    "response": "I'm making cookies for the club members...! Are you going to help me or not?! didn't come back home last night either... She might be out late again... So I should make extra cookies in case she comes over tonight",
+    "inference_time": 2.4235990047454834,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 30,
+    "scenario": "greeting",
+    "user_input": "Hello Yuri. Mind if I join you?",
+    "response": "...I-I guess not. It would be nice to have someone to read it with. But don't mind me--...Ahaha... Sorry! must think this is really weird of her or something. In any case, let's",
+    "inference_time": 2.4336607456207275,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 60,
+    "scenario": "casual",
+    "user_input": "How's the Literature Club going?",
+    "response": "I'm so glad you asked... I've been doing some reading for myself lately--and it has really made me realize how much more fun this club could be if we all shared our thoughts about what we read! But there isn't anyone here who",
+    "inference_time": 2.548691749572754,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "casual",
+    "user_input": "What are you working on?",
+    "response": "I'm writing some poetry... I was just starting to feel a little down about it, but your question made me remember why I started doing this in the first place! It makes everything so much more fun with friends like you around. But I hope",
+    "inference_time": 2.4279866218566895,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 40,
+    "scenario": "casual",
+    "user_input": "Did you bake something today?",
+    "response": "Yeah... I did. A cake for the club meeting tomorrow. But it'll probably be no good--...I don't know how to decorate it properly or anything. It looks kind of ugly right now. And even if it turns out fine,",
+    "inference_time": 2.540174961090088,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 35,
+    "scenario": "casual",
+    "user_input": "What are you reading?",
+    "response": "It's...Romeo And Juliet... I've never read it before, so I'm not sure what to think about it yet. Do you like it?...I don't know why, but sometimes people do this weird thing where they try",
+    "inference_time": 2.463820219039917,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 55,
+    "scenario": "casual",
+    "user_input": "I love spending time with you!",
+    "response": ", I'm glad to hear that... That means we can make sure this club stays active for another year at least. Now, let's take it one step at a time-- We'll have our first meeting next week. Are there any",
+    "inference_time": 2.4592771530151367,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "casual",
+    "user_input": "You always know how to cheer me up.",
+    "response": "I'm not doing anything yet... Just hold on for another minute or so. I'll make sure it's worth your while. will be surprised when she sees this place too... And besides, there won't be any more days like",
+    "inference_time": 2.4342470169067383,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 30,
+    "scenario": "casual",
+    "user_input": "Can I try some of your cupcakes?",
+    "response": "Ugh... Fine! But don't expect me to share any more than that. And make sure you're not gonna mess it up or anything... Ahh--!! Don't touch my stuff like that! It'll ruin everything! Hold still for",
+    "inference_time": 2.440722703933716,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 50,
+    "scenario": "casual",
+    "user_input": "I'd love to discuss books with you more often.",
+    "response": "A-Ah...'re making me feel really happy right now... I'm glad we're friends like this too... do the same thing as me? Do you ever get nervous before class or anything? I don't know",
+    "inference_time": 2.495840549468994,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 70,
+    "scenario": "casual",
+    "user_input": "Thanks for always being there for me.",
+    "response": "I know you feel that way about me too... So I won't let it stop! It means everything to me. Ahaha-- Well? What do you say we go get some tea first? We can talk more when we get back. Alright",
+    "inference_time": 2.4919073581695557,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "casual",
+    "user_input": "Want to walk home together?",
+    "response": "I was thinking about it... Yeah! I'll go get my stuff first. Ahaha~ Sorry for being so slow today-- 're moving pretty fast yourself! But yeah... Let me just grab this one thing... It feels weird not",
+    "inference_time": 2.4779951572418213,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 50,
+    "scenario": "casual",
+    "user_input": "Your manga collection is impressive!",
+    "response": "It takes time to build up that kind of library... And besides-- It doesn't matter if you don't like it or not. I was just going to ask for your help with something else anyway. The first chapter isn't very good. Do",
+    "inference_time": 2.4289121627807617,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "compliment",
+    "user_input": "I really enjoyed your poem today!",
+    "response": "That means so much to me... I was worried that you might not understand it. But if you did enjoy it, then all my hard work wasn't for nothing... Ahaha--...It feels like we've been waiting forever for this moment.",
+    "inference_time": 2.454791307449341,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 60,
+    "scenario": "compliment",
+    "user_input": "Your smile always brightens my day.",
+    "response": "I'm glad that I can make the other person feel happy... Even if it might not be for long enough. Ahaha-- It's okay, don't worry about me......Do you have any plans today? Are we going to meet up",
+    "inference_time": 2.430982828140259,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 45,
+    "scenario": "compliment",
+    "user_input": "These cupcakes are amazing! You're really talented.",
+    "response": "I-I'm glad you like them... always compliment me on my baking skills anyway... But this time it feels kind of different for some reason... Why do I have to be so clumsy around you? I guess it's because we've",
+    "inference_time": 2.4428024291992188,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 55,
+    "scenario": "compliment",
+    "user_input": "Your taste in literature is really impressive!",
+    "response": "I-I'm sorry... I might have gotten carried away--...Why do you say that? What makes it so surprising? Why would my opinion be any different from yours? It's just something we both like to read. might not",
+    "inference_time": 2.41903018951416,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 75,
+    "scenario": "compliment",
+    "user_input": "I appreciate how thoughtful you are.",
+    "response": "But I'm not always this perfect... It feels weird for me to be so cheerful when there aren't any other members here today. Well...it'll pass sooner or later, right? Ahaha-- This isn't anything serious, anyway... So",
+    "inference_time": 2.425424814224243,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 70,
+    "scenario": "compliment",
+    "user_input": "You're such a caring friend.",
+    "response": "I'm so glad I could help... Ahaha--...This should be good enough for now. Hold on just a second! will probably get the hang of it after some practice. And if they don't, then that'll make",
+    "inference_time": 2.4276981353759766,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 55,
+    "scenario": "compliment",
+    "user_input": "I love how passionate you are about things.",
+    "response": "Well... I'm just trying to be serious for once-- Well? Are you going to take it or not?! You're the one who asked me to bake something today! Ahh!! That hurts!! Stop that! It'll ruin your shirt!",
+    "inference_time": 2.472078323364258,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "compliment",
+    "user_input": "I'd love to hear you read your poetry.",
+    "response": "This poem might be my favorite of all the ones I've written... But I don't know if anyone will understand it like we do right now... could never see me this way at school--...So let's enjoy each other being",
+    "inference_time": 2.455068349838257,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 80,
+    "scenario": "compliment",
+    "user_input": "You're an amazing club president.",
+    "response": "That means so much to me... I want everyone to feel comfortable here. But if you don't mind my asking-- What do you think about it? 're just being nice... Ahaha... No way. Why would you say that",
+    "inference_time": 2.431077480316162,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 75,
+    "scenario": "compliment",
+    "user_input": "I'm so glad we're friends.",
+    "response": "That means everything to me too... I just don't think that's true right now. keep your promise for once... Why did it have to be today?...Why didn't you tell me earlier?! It hurts my head... What",
+    "inference_time": 2.4219810962677,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 60,
+    "scenario": "compliment",
+    "user_input": "You have great taste in manga.",
+    "response": "I'm surprised you're so interested... I don't really understand why either. So what do you think? Don't hold back-- Tell me the truth. just said that it was cute enough to make her buy more of them.",
+    "inference_time": 2.455157995223999,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 70,
+    "scenario": "compliment",
+    "user_input": "You're really elegant and thoughtful.",
+    "response": "I-I see... Thank you... I don't feel like it at all... Why do you say that?...Eh?'re being very kind to me today... I just want the same back from you... So,",
+    "inference_time": 2.500270366668701,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "compliment",
+    "user_input": "This conversation means a lot to me.",
+    "response": "I'm glad you feel that way... I don't know if it would be possible for everyone else to understand how much this means to me too... But we'll just have to see about that. So--...what do you think? Will you",
+    "inference_time": 2.4696505069732666,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 80,
+    "scenario": "compliment",
+    "user_input": "Your energy is contagious in the best way.",
+    "response": "I'm glad... I could make someone else feel this good about life. will always be my friend no matter what. That makes me really happy. Just for today... Let's just enjoy ourselves. Alright! So we're going to",
+    "inference_time": 2.483790636062622,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "joy",
+    "affection": 65,
+    "scenario": "compliment",
+    "user_input": "You're pretty cool once people get to know you.",
+    "response": "It means I'm not that bad after all... But don't think it'll make me start acting any more friendly than usual or anything. Just treat me like an acquaintance at least-- That way we can both avoid any unnecessary stress on our part.",
+    "inference_time": 2.495230197906494,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What made you start the Literature Club?",
+    "response": "I'm glad I could share this with her... It feels like it might not be as special to anyone else, but-- Ahaha! Sorry, sorry... I just get carried away sometimes... What about ? Why did they join the club",
+    "inference_time": 2.475951671600342,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 40,
+    "scenario": "question",
+    "user_input": "What do you like to do in your free time?",
+    "response": "I really love reading books... I always get lost in them for hours! It makes me happy when my friends come over so we can share it with each other. I also like making tea for everyone... Well, even if they don't drink any",
+    "inference_time": 2.4786880016326904,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 35,
+    "scenario": "question",
+    "user_input": "What's your favorite manga series?",
+    "response": "It's 'Love Cosmos'... I've read it like five times already! Why do you ask--? Ahaha...I-I mean... It's just that we're talking about reading right now. Yeah... That makes sense... A-Are",
+    "inference_time": 2.5073869228363037,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 40,
+    "scenario": "question",
+    "user_input": "Tell me about your favorite book.",
+    "response": "It makes me feel happy...to be able to share it with you. I-I guess this is why I was so nervous earlier! It feels like my heart could stop at any moment-- But if that happens...then there will just have been one",
+    "inference_time": 2.508500814437866,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "question",
+    "user_input": "What are your hobbies?",
+    "response": "I'm in charge of planning our club activities... I want to make sure everyone feels welcome. It might be fun for you two to join me! If nothing else, it'll give us something to talk about during class. That's why I always",
+    "inference_time": 2.4572160243988037,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What's your favorite thing about the club?",
+    "response": "That we can share treats with each other... We're gonna bake some cookies today! I hope they turn out all right-- Ahaha~ It might not be much for me to say this since it just started, but this is really fun so far",
+    "inference_time": 2.48620867729187,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 40,
+    "scenario": "question",
+    "user_input": "How did you get into baking?",
+    "response": "It's not like I have any other hobbies... Why do we need to know this anyway? That's all that matters! It makes me happy, so don't make it weird for both of us. Ugh, stop making such big eyes at",
+    "inference_time": 2.504216432571411,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "question",
+    "user_input": "What draws you to psychological horror?",
+    "response": "I-I think it's because I have trouble understanding other people... So reading about their feelings is really helpful! It helps me understand them better, even if they're just characters in a book... But maybe that doesn't make sense--...Eh",
+    "inference_time": 2.4753644466400146,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "question",
+    "user_input": "What's your favorite poem?",
+    "response": "I'm not sure... It feels like I haven't been in any particular mood lately either way. But if you want to share one that you like, I'd be happy for it! We could even analyze its meaning together... If you don't",
+    "inference_time": 2.421574354171753,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "question",
+    "user_input": "What makes you happiest?",
+    "response": "A lot of things...! But if I really had to pick one thing that always puts me in a good mood, it would be spending time with my friends. Reading books together or making plans for adventures like this trip we're going on now.",
+    "inference_time": 2.4329030513763428,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 45,
+    "scenario": "question",
+    "user_input": "What's your favorite thing to bake?",
+    "response": "I like making sweets that look nice... It makes me feel happy when I make something pretty! have any idea what you're talking about yet? Ahaha--...Nope~ Well then, let's just get started already... Why",
+    "inference_time": 2.5231716632843018,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What authors do you admire most?",
+    "response": "...I'm not really sure that I have any favorites yet. might know better than me about these kinds of things--! I mean, it's just natural to be interested in writing if we're going to be club members together...",
+    "inference_time": 2.493326187133789,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 65,
+    "scenario": "question",
+    "user_input": "What do you value most in a friendship?",
+    "response": "A friend who will be there for me no matter what... Ahaha! Well, that might sound weird to say out of nowhere like this-- I just really care about my friends deeply, even if it doesn't show right now. But don't",
+    "inference_time": 2.4227497577667236,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "neutral",
+    "affection": 60,
+    "scenario": "question",
+    "user_input": "What's your ideal way to spend a day?",
+    "response": "will make me happy... I hope that sounds okay! It feels nice to share it with someone who likes me like this....I'm glad we can be friends, . Ahaha~ What do you think about my poem",
+    "inference_time": 2.4316747188568115,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 50,
+    "scenario": "question",
+    "user_input": "What do you think makes a good story?",
+    "response": "I don't know... I just like it when there aren--...Hey! You're not listening to me again or anything, right?! Ahaha~ Why wouldn't I be paying attention? Are you surprised that she can understand what we say outside",
+    "inference_time": 2.449953317642212,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "sadness",
+    "affection": 60,
+    "scenario": "support",
+    "user_input": "I'm feeling a bit down today...",
+    "response": "Eh? Why is that? What's wrong? User, stop acting like you don't know me! If there's something on your mind, just tell me about it. I might not always be the most perfect person, but at least we",
+    "inference_time": 2.445422887802124,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 65,
+    "scenario": "support",
+    "user_input": "Is everything okay? You seem a bit off...",
+    "response": "I'm fine! I was just thinking about what we're gonna do today... Don't worry if it takes me longer than usual to get ready--...Wait, no, that's not right at all... , this is the truth.",
+    "inference_time": 2.4285669326782227,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "anger",
+    "affection": 40,
+    "scenario": "support",
+    "user_input": "I'm just frustrated with everything right now.",
+    "response": "Yeah... Yeah... That's why you're being so mean to me! It's all because of your feelings about it--about the fact that I might have deeper feelings for someone else than for you. So then why do you need to make such",
+    "inference_time": 2.4348411560058594,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "sadness",
+    "affection": 55,
+    "scenario": "support",
+    "user_input": "I've been feeling anxious lately...",
+    "response": "But I'm not going to let that get in the way of my feelings! That just makes me even more determined. We'll be happy together, so don't worry about it! It doesn't matter what you think right now-- You can always",
+    "inference_time": 2.4307315349578857,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 70,
+    "scenario": "deep",
+    "user_input": "Do you ever feel overwhelmed by everything?",
+    "response": "I do my best to keep up... It doesn't always work out like I want it to, but-- 're right there beside me! So no matter what happens, we'll face it together. That makes all of this worth it",
+    "inference_time": 2.5657429695129395,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 70,
+    "scenario": "support",
+    "user_input": "It's okay to not always be cheerful, you know.",
+    "response": "I do... I guess. But it wouldn't hurt for me to try sometimes! It might make everyone else happy too-- And that would definitely make happy! If she didn't have such high expectations of me in the first place...",
+    "inference_time": 2.496079444885254,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 55,
+    "scenario": "deep",
+    "user_input": "You don't have to act tough around me.",
+    "response": "Well... Why not? It's more fun this way! Besides-- I might get hurt if you're all nice to me too fast. Ahaha......Ahahahaha...Are you okay?! ?!! What do you",
+    "inference_time": 2.449497699737549,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "neutral",
+    "affection": 65,
+    "scenario": "deep",
+    "user_input": "I really value our conversations.",
+    "response": "This is probably all that I can do... It doesn't matter what you think of me anyway. I'll just hide my feelings deep down inside... 're right there beside me, after all... And even if it feels like we're",
+    "inference_time": 2.4229094982147217,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "deep",
+    "user_input": "Would you like to go out for lunch?",
+    "response": "It wouldn't be any fun without you... I'm looking forward to it. Let me grab my bag first--...Hey, . Are you feeling okay today? Ahaha~! Why do you ask that? What's wrong? Just",
+    "inference_time": 2.561060905456543,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "deep",
+    "user_input": "You mean a lot to me.",
+    "response": "I'm the kind of person who always makes things worse... But I don't care about that anymore. It's fine if it doesn't work out between us. It means more than anything for me that we can spend time together like this. To",
+    "inference_time": 2.4214866161346436,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 65,
+    "scenario": "deep",
+    "user_input": "I'm glad we've gotten closer.",
+    "response": "It doesn't matter how close you get... I won't let my guard down! You have no idea what it feels like to be me--to always pretend that everything is fine when really there's something wrong deep inside your heart. If anything makes",
+    "inference_time": 2.534022569656372,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 75,
+    "scenario": "deep",
+    "user_input": "I feel like I can be myself around you.",
+    "response": "Well... It feels the same way to me too... Ahaha... So it looks like we both have some things that make us uncomfortable. But at least we're not alone about this one thing....I'm glad. always makes",
+    "inference_time": 2.458704710006714,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 90,
+    "scenario": "deep",
+    "user_input": "What does the future hold for us?",
+    "response": "Ah... , you'll make it through this semester just fine! And then there will be next year--the festival, graduation... I'm sure we all have our own goals that we want to achieve by then. But even if they don",
+    "inference_time": 2.456991195678711,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "joy",
+    "affection": 90,
+    "scenario": "deep",
+    "user_input": "You've made such a difference in my life.",
+    "response": "I'm glad that I could be there for the person who cares about me most... It doesn't matter if it's not always easy to understand each other or see eye-to-eye-- As long as we're together, anything feels possible....That",
+    "inference_time": 2.55916166305542,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "joy",
+    "affection": 85,
+    "scenario": "deep",
+    "user_input": "I cherish every moment we spend together.",
+    "response": "Eh? Why...? I--...I'm sorry... I didn't mean to make you feel that way... This isn't the right time or place... Are you sure it feels good? don't know what you're talking",
+    "inference_time": 2.575482130050659,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "surprise",
+    "affection": 50,
+    "scenario": "surprise",
+    "user_input": "I wrote a poem! Want to read it?",
+    "response": "Of course... I'm happy that you decided to share something with me. That takes courage, after all. So don't worry about what other people will think of your work--just be proud that you tried in the first place. Now, let",
+    "inference_time": 2.565122604370117,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "surprise",
+    "affection": 60,
+    "scenario": "surprise",
+    "user_input": "I brought cookies for everyone!",
+    "response": "Ah... That's nice of you... I-I mean, thanks... You didn't have to do that... Why did you make so many? We're not exactly having some big party here or anything... Ahaha~ There aren't any other people",
+    "inference_time": 2.479311943054199,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "surprise",
+    "affection": 45,
+    "scenario": "surprise",
+    "user_input": "I actually really like manga too.",
+    "response": "Don't be ridiculous! I'm way better at it than you'll ever hope to be... Right? That just makes me more sure that we're not compatible in any other area either. But-- Ahh! should have told me",
+    "inference_time": 2.423048734664917,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "surprise",
+    "affection": 50,
+    "scenario": "surprise",
+    "user_input": "I started reading Portrait of Markov because of you!",
+    "response": "What...? I didn't say anything about that......That isn't true at all. Why would it be any different this time? That doesn't make sense to me either. I just want some tea. So don't read too much into",
+    "inference_time": 2.4211971759796143,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "anger",
+    "affection": 35,
+    "scenario": "disappointment",
+    "user_input": "Sorry, I can't make it to the club today.",
+    "response": "I'm not surprised... We were always just friends anyway. It was only natural that you wouldn't want to continue this way anymore--...Ah! What do you mean by 'this'? That we were never close? Are you really saying you didn",
+    "inference_time": 2.4597296714782715,
+    "num_tokens": 50
+  },
+  {
+    "character": "Sayori",
+    "emotion": "sadness",
+    "affection": 50,
+    "scenario": "disappointment",
+    "user_input": "I might be late to our meeting...",
+    "response": "Huh? Why would I care about that?! Well, if anything, it'll make me happy! So don't worry too much about being on time or not-- If we have any more trouble with the club room like today, then maybe I",
+    "inference_time": 2.4765429496765137,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "anger",
+    "affection": 30,
+    "scenario": "confrontation",
+    "user_input": "Manga is just for kids, right?",
+    "response": "That doesn't make any sense! It might not always have the most intellectual content... But it can still evoke emotions in people, even if they're silly or shallow feelings. That makes it important to you as an artist. And that means I'm",
+    "inference_time": 2.4398250579833984,
+    "num_tokens": 50
+  },
+  {
+    "character": "Yuri",
+    "emotion": "sadness",
+    "affection": 40,
+    "scenario": "disappointment",
+    "user_input": "I don't really understand poetry...",
+    "response": "Well, I'm not that good at it either... But if you're interested in reading more about the subject, then we could go to the library together sometime! We would have lots of fun there--...I hope so, anyway. Ahaha",
+    "inference_time": 2.422741413116455,
+    "num_tokens": 50
+  },
+  {
+    "character": "Monika",
+    "emotion": "neutral",
+    "affection": 20,
+    "scenario": "introduction",
+    "user_input": "Tell me about the Literature Club.",
+    "response": "The Literature Club is......a club where we read books together! We discuss them, share our opinions-- It might sound simple, but it really makes for some great conversations. I'm sure you'll have fun in there too. Just be careful",
+    "inference_time": 2.429288625717163,
+    "num_tokens": 50
+  },
+  {
+    "character": "Natsuki",
+    "emotion": "neutral",
+    "affection": 15,
+    "scenario": "introduction",
+    "user_input": "So you're part of the Literature Club?",
+    "response": "Yeah... I guess so. It was just something to do while I'm waiting for my friend outside... So don't get your hopes up or anything! We're not friends yet--or even close to it, really. Just because we share this",
+    "inference_time": 2.425767183303833,
+    "num_tokens": 50
+  }
+]

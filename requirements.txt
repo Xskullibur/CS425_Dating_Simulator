@@ -1,0 +1,35 @@
+# Core dependencies
+jupyter
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# NLP
+nltk>=3.8.0
+spacy>=3.5.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Model Optimization
+peft>=0.4.0  # For LoRA (parameter-efficient fine-tuning)
+accelerate>=0.20.0  # For training utilities and optimizations
+bitsandbytes>=0.41.0  # For 8-bit optimizers (optional)
+
+# Training
+datasets>=2.14.0  # HuggingFace datasets
+tensorboard>=2.13.0  # Training monitoring
+pyyaml>=6.0  # Config file parsing
+
+# Optional: Advanced Monitoring
+wandb>=0.15.0  # Weights & Biases (optional, for experiment tracking)
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
