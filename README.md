@@ -67,14 +67,10 @@ The project uses the following datasets:
 - **Love Is Blind Dataset** - TV show scripts from Season 1 (11 episodes) for dialogue generation and persona training
 - **Processed Love Is Blind** - Cleaned and structured CSV format of the Love Is Blind scripts
 
-For detailed information about dataset structure, location, and setup instructions, please refer to **[`data/README.md`](./data/README.md)**.
-
 ### Downloading Datasets
 
 Datasets can be accessed from the shared Google Drive folder:
 📁 **[CS425 Project Datasets](https://drive.google.com/drive/u/2/folders/1qn5ori_X3XGUCwJ1qM3cmhweeSH_stM-)**
-
-See [`data/README.md`](./data/README.md) for detailed download and setup instructions.
 
 ## Configuration
 
