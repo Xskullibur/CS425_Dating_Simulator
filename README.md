@@ -6,7 +6,7 @@ An emotionally intelligent dating simulator with a multi-component system to det
 
 This project develops a dating simulator chatbot with the following capabilities:
 - **Emotion Detection**: Classifies user emotions using fine-tuned transformer models
-- **Persona Engine**: Maintains a consistent personality (Prof Gao archetype)
+- **Persona Engine**: Maintains a consistent personality
 - **Dialogue Generation**: Generates contextually appropriate, emotion-aware responses
 - **Emotional State Tracker**: Tracks conversation history and affection levels
 
