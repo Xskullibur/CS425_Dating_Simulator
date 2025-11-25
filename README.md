@@ -46,7 +46,7 @@ pip install -r requirements.txt
 4. Download required datasets (see Data section)
 
 ## Datasets
-> Data to be placed in the `data` folder
+> Data to be placed in the `data/raw` folder
  
 The project uses the following datasets:
 - **Emotion Dataset** - 69k emotion-labeled text samples for emotion detection training
