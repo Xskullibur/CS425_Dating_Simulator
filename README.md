@@ -2,21 +2,6 @@
 
 An emotionally intelligent dating simulator with a multi-component system to detect, track, and respond to emotional states while generating contextually appropriate dialogue.
 
-## Project Overview
-
-This project develops a dating simulator chatbot with the following capabilities:
-- **Emotion Detection**: Classifies user emotions using fine-tuned transformer models
-- **Persona Engine**: Maintains a consistent personality
-- **Dialogue Generation**: Generates contextually appropriate, emotion-aware responses
-- **Emotional State Tracker**: Tracks conversation history and affection levels
-
-## Features
-
-- Emotional responses to users based on detected sentiment
-- Dynamic affection level tracking based on conversation context
-- Single persona model trained for consistent personality
-- Multi-component architecture for modularity and extensibility
-
 ## Architecture
 
 The system consists of the following components:
@@ -61,7 +46,8 @@ pip install -r requirements.txt
 4. Download required datasets (see Data section)
 
 ## Datasets
-
+> Data to be placed in the `data` folder
+ 
 The project uses the following datasets:
 - **Emotion Dataset** - 69k emotion-labeled text samples for emotion detection training
 - **Love Is Blind Dataset** - TV show scripts from Season 1 (11 episodes) for dialogue generation and persona training
@@ -70,104 +56,45 @@ The project uses the following datasets:
 ### Downloading Datasets
 
 Datasets can be accessed from the shared Google Drive folder:
-📁 **[CS425 Project Datasets](https://drive.google.com/drive/u/2/folders/1qn5ori_X3XGUCwJ1qM3cmhweeSH_stM-)**
+**[CS425 Project Datasets](https://drive.google.com/drive/folders/15R-d4qYKBBvxhDfbBsFZSi6Y8V7L0zbz?usp=sharing)**
 
-## Configuration
+- [Visual Novels Dataset](https://huggingface.co/datasets/alpindale/visual-novels)
+- [MELD Dataset](https://github.com/declare-lab/MELD)
 
-Edit the YAML files in the `config/` directory to customize:
-- `model_config.yaml`: Model architectures and hyperparameters
-- `training_config.yaml`: Training settings and optimization
-- `data_config.yaml`: Dataset paths and preprocessing options
+### Finetuned Checkpoints
+Finetuned checkpoints can be accessed from the shared Google Drive folder:
+- https://drive.google.com/drive/folders/15R-d4qYKBBvxhDfbBsFZSi6Y8V7L0zbz?usp=sharing
 
 ## Usage
 
-### Training
+### Data Preprocessing and Finetuning
 
-Train the emotion detection model:
+Download, load, preprocess, and fine tunetune the model by running the respective jupyter notebook in the  `notebooks` folder:
 ```bash
-python scripts/train.py --model emotion --config config/training_config.yaml
+cd notebook
+jupyter notebook
 ```
 
-Train the dialogue generation model:
-```bash
-python scripts/train.py --model dialogue --config config/training_config.yaml
-```
+- `notebook/MELD`: MELD Dataset
+- `notebook/VN_emotion`: Visual Novel Dataset with emotion classification
+- `notebook/VN_no_emotion`: Visual Novel Dataset without emotion classification
+- `notebook/VN_split`: Visual Novel Dataset with emotion and split characters
 
 ### Evaluation
 
-Evaluate model performance:
-```bash
-python scripts/evaluate.py --checkpoint checkpoints/best_model.pt
-```
+In each notebook directory has their own respective evaluation notebook called `notebook/<variant>/04_evaluation_*.ipynb`.
 
-### Running the Chatbot
+There is also an comparison notebook comprised of all the visual novels trained and evaluated called `notebook/05_model_comparison__VN.ipynb`
+
+### Running the Chatbot (Inference)
 
 Launch the interactive CLI:
 ```bash
-python scripts/run_chatbot.py
+# List Arguments
+python src/app/cli.py --help
+
+# Example with our best model
+python src/app/cli.py -m checkpoints/08_11_2025__cleaned_merged__128_len__12_epoch__30_eval/final -t merged
 ```
 
-## Development Workflow
-
-1. **Experimentation**: Use Jupyter notebooks in `notebooks/` for exploration
-2. **Implementation**: Modularize code in `src/` modules
-3. **Training**: Use scripts in `scripts/` for training
-4. **Deployment**: Run the final chatbot using `run_chatbot.py`
-
-## Implementation Phases
-
-### Phase 1: Data Acquisition & Preprocessing
-- Load and combine datasets
-- Implement emotion label mapping
-- Apply data augmentation
-- Generate dating scenarios
-
-### Phase 2: Emotion Detection Model
-- Fine-tune BERT/RoBERTa models
-- Train emotion classifier
-- Evaluate on validation set
-
-### Phase 3: Dialogue Generation & Persona Engine
-- Implement dialogue generation with LoRA
-- Define persona characteristics
-- Build emotional state tracker
-
-### Phase 4: Integration & Joint Training
-- Integrate all components
-- Optimize end-to-end system
-- Balance emotion accuracy and response quality
-
-### Phase 5: Evaluation & Feedback
-- Measure performance metrics
-- Gather qualitative feedback
-- Iterate on improvements
-
-## Evaluation Metrics
-
-- **Emotion Classification**: F1-score, precision, recall
-- **Dialogue Quality**: BLEU, perplexity
-- **Emotional Consistency**: Temporal coherence
-- **User Engagement**: Conversation length, appropriateness ratings
-
-## Technologies
-
-- **Language**: Python 3.8+
-- **Deep Learning**: PyTorch, Hugging Face Transformers
-- **Optimization**: LoRA (PEFT library)
-- **Data Processing**: NLTK, spaCy, scikit-learn
-- **Development**: Jupyter, Git
-
-## Team
-
-CS425 G2T3 Conversational AI
-
-## License
-
-Academic project for CS425 course.
-
-## References
-
-- EmpatheticDialogues Dataset
-- GoEmotions Dataset
-- LoRA: Low-Rank Adaptation of Large Language Models
-- DialogueLLM: Context and Emotion Knowledge-Tuned LLMs
+- Download or finetune your own model and place it in the `checkpoints` folder.
